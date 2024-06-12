@@ -1,0 +1,50 @@
+!SESSION 2023-11-19 11:44:35.075 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  C:\ece198_1_53\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\ece198_1_53\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-19 11:44:58.774
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-19 11:44:58.778
+!MESSAGE Log4j2 initialized with config file C:\ece198_1_53\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-19 11:45:02.053
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-11-19 11:48:24.610 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-19 11:48:34.610
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-19 11:48:34.614
+!MESSAGE Log4j2 initialized with config file C:\ece198_1_53\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-19 11:48:37.776
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-11-19 11:48:51.688 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  C:\ece198_1_53\198\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\ece198_1_53\198\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-11-19 11:49:00.876
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-19 11:49:00.880
+!MESSAGE Log4j2 initialized with config file C:\ece198_1_53\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-19 11:49:03.997
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-19 11:49:08.923
+!MESSAGE Indexed '198' (24 sources, 112 headers) in 2.49 sec: 10,281 declarations; 55,597 references; 2 unresolved inclusions; 42 syntax errors; 149 unresolved names (0.23%)
